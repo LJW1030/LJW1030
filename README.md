@@ -34,14 +34,20 @@ Here are some ideas to get you started:
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
 
+
+
 ## 📫CONTACT
 * E-MAIL: wkdrngla789@naver.com
 * GitHub: https://github.com/LJW1030
 
 
-### PERSONAL PROJECT
+
+
+### 📗PERSONAL PROJECT
 <a href="https://github.com/LJW1030/ItemProject" target="_blank"> Ah! IT 템 [게임 아이템 거래소] </a>
 
 
-### TEAM PROJECT  
+
+
+### 📘TEAM PROJECT  
 <a href="https://github.com/Aiden125/Vendredi/" target="_blank"> Vendredi [맛집 추천 가이드] </a>
