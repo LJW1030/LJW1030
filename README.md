@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=지누와%20Code&fontSize=90)
 
-:whale: TECH :whale:
+# :whale: TECH :whale:
 <br>
 <br>
+>
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=black)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
