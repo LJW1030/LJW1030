@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JQUERY-586696?style=flat&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonAWS-#232F3E?style=flat&logo=AWS&logoColor=white">
