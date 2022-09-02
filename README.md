@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 :whale: TECH :whale:
 <br>
+<br>
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=black)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -27,3 +28,11 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3ED?style=flat-square&logo=AMAZONAWS&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+
+<br>
+<br>
+
+#### PERSONAL PROJECT
+<a href="https://github.com/LJW1030/ItemProject" target="_blank"> * Ah! IT 템 [게임 아이템 거래소] </a>
+#### TEAM PROJECT  
+<a href="https://github.com/Aiden125/Vendredi/" target="_blank"> * Vendredi [맛집 추천 가이드] </a>
