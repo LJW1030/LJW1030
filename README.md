@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 
 ## CONTACT
 * E-MAIL: wkdrngla789@naver.com
-* GiTHub: https://github.com/LJW1030
+* GitHub: https://github.com/LJW1030
 <br>
 <br>
+</br>
 ### PERSONAL PROJECT
-<a href="https://github.com/LJW1030/ItemProject" target="_blank"> * Ah! IT 템 [게임 아이템 거래소] </a>
+<a href="https://github.com/LJW1030/ItemProject" target="_blank"> Ah! IT 템 [게임 아이템 거래소] </a>
 ### TEAM PROJECT  
-<a href="https://github.com/Aiden125/Vendredi/" target="_blank"> * Vendredi [맛집 추천 가이드] </a>
+<a href="https://github.com/Aiden125/Vendredi/" target="_blank"> Vendredi [맛집 추천 가이드] </a>
