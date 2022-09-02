@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LJW1030/LJW1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +16,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=지누와%20Code&fontSize=90)
 
-<img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SPRING-3c6d66?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JQUERY-586696?style=flat&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/AmazonAWS-#232F3E?style=flat&logo=AWS&logoColor=white">
+:whale: TECH :whale:
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3ED?style=flat-square&logo=AMAZONAWS&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
