@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+## CONTACT
+* E-MAIL: wkdrngla789@naver.com
+* GiTHub: https://github.com/LJW1030
+<br>
+<br>
 ### PERSONAL PROJECT
 <a href="https://github.com/LJW1030/ItemProject" target="_blank"> * Ah! IT 템 [게임 아이템 거래소] </a>
 ### TEAM PROJECT  
