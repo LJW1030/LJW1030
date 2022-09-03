@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=지누와%20Code&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Enjoy%20Coding&fontSize=90):fork_and_knife:
+
 
 
 
