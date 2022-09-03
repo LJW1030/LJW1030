@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 
 ### 📘TEAM PROJECT  
-<a href="https://github.com/Aiden125/Vendredi/" target="_blank"> Vendredi [맛집 추천 가이드] </a>
+<a href="https://github.com/LJW1030/Vendredi" target="_blank"> Vendredi [맛집 추천 가이드] </a>
